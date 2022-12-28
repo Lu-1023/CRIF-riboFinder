@@ -1,6 +1,6 @@
 # Find-codon-repeat
 **<font color="grey"><font size=10> To find genome codon repeats </font></font>**
-<font size=5><font color="steelblue"><p align="right">2022.11.18</p></font></font>
+<font size=8><font color="steelblue"><p align="right">2022.11.18</p></font></font>
 # <font color="steelblue">(Find all codon repeats of CDS) </font>
 
 
@@ -18,7 +18,7 @@ perl codon_motif_pos.pl -sp <species> -fs <YES , NO , LOW,MEDIAN or ALL>) \n"}
 ```
 
 
-##  <font size=6>2  Count the hidden stop codon</font>
+##  <font size=6>2  Count the hidden stop codons</font>
 The frame-shifting site as input and can get the distance (unit : codon) from frame-shifting site to the first stop codon
 
 ```shell
