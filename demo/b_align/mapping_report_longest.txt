@@ -1,0 +1,47 @@
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+stat: No such file or directory
+Warning: Could not open read file "demo_derRNA.fq" for reading; skipping...
+Command: /media/hp/disk4/bioinfo_student/miniconda3/bin/bowtie-align-s --wrapper basic-0 -p 16 -S /media/hp/disk1/lu/demo/bowtie/longest demo_derRNA.fq b_align/demo.sam 
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59650 (81.06%)
+# reads that failed to align: 13933 (18.94%)
+Reported 59650 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59650 (81.06%)
+# reads that failed to align: 13933 (18.94%)
+Reported 59650 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59650 (81.06%)
+# reads that failed to align: 13933 (18.94%)
+Reported 59650 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59650 (81.06%)
+# reads that failed to align: 13933 (18.94%)
+Reported 59650 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59644 (81.06%)
+# reads that failed to align: 13939 (18.94%)
+Reported 59644 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59644 (81.06%)
+# reads that failed to align: 13939 (18.94%)
+Reported 59644 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 73583
+# reads with at least one alignment: 59644 (81.06%)
+# reads that failed to align: 13939 (18.94%)
+Reported 59644 alignments
