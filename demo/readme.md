@@ -81,11 +81,11 @@ python longest_CRIF_statistic.py -f 2 -s hg38 -d /media/hp/disk1/lu/demo
 `hg38_ALL_hsc_position.txt`(The sites of codon repeats and the distance from frame-shifting site to the first stop codon.It's uploaded  to GitHub([hg38_ALL_hsc_position_frame1.txt](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo/b_align/noscreen/hg38_ALL_hsc_position.txt))
 
 ###   <font size=2><font color="grey">Expected output file</font></font>
-b_align\noscreen\FS_plot
+`b_align\noscreen\FS_plot`
 
 
 ##  <font size=4>4 Visualization of a line graph   </font>
-<u>Note:In this script,because the demo data is too small to complete the last line graph. I reuploaded the original human liver FS_plot as an example of this step, and it is called FS_plot1</u>:
+<u>Note:In this script,because the demo data is too small to complete the last line graph. I reuploaded the original human liver FS_plot as an example of this step, and it is called `FS_plot1`</u>:
 
 ```shell
 Rscript 2.R
