@@ -80,7 +80,7 @@ R version 4.0.5
 
 # <font color="GREY">Demo</font>
 ***
-A simple example of `CRIF-Finder` is at:([https://github.com/Lu-1023/CRIF_Finder/tree/main/demo](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo)
+A simple example of `CRIF-Finder` is at:([https://github.com/Lu-1023/CRIF_Finder/tree/main/demo](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo))
 # <font color="GREY">License</font>
 ***
 This project is covered under the [Mit License](https://github.com/Lu-1023/CRIF_Finder/blob/main/LICENSE).
