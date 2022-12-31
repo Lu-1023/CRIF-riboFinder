@@ -1,0 +1,42 @@
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
+=============== processing demo =================
+Setting the index via positional argument will be deprecated in a future release. Please use -x option instead.
+# reads processed: 100000
+# reads with at least one alignment: 26417 (26.42%)
+# reads that failed to align: 73583 (73.58%)
+Reported 26417 alignments
