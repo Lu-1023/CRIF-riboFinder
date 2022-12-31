@@ -1,0 +1,2 @@
+id	motif	start	stop	hsc	e_codon_inframe	e_codon_baseline	e_codon_rbox	e_codon_rbox_inframe	rbox_length.codon.	cds_length.codon.	rbox_inframe_avg	p.value	foldchange	intensity...	ORF_length	RPF_RPKM	padjust
+ALB_NM_000477	LLL_CTGCTGCTG	1204	1213	1244	428	187	3	10	13	590	5.46153846153846	0.523586989657095	0.557	-6.16427368252186	1830	52654.9100461588	0.654483737071369

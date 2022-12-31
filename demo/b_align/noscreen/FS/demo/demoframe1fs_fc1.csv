@@ -1,0 +1,2 @@
+"id","motif","start","stop","hsc","e_codon_inframe","e_codon_baseline","e_codon_rbox","e_codon_rbox_inframe","rbox_length.codon.","cds_length.codon.","rbox_inframe_avg","p.value","foldchange","intensity...","ORF_length","RPF_RPKM","padjust"
+"CLU_NM_001831","LLL_CTGCTGCTG",130,139,260,132,19,4,14,43,430,0.790697674418605,0.00118371175798517,2.061,8.57142857142857,1350,5702.26695604909,0.00591855878992584

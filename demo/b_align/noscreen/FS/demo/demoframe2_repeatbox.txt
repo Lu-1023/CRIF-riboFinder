@@ -1,0 +1,853 @@
+MYO18A_NM_078471	SSS_AGCAGCAGC	3298	3307	nan	nan	nan	nan
+MYO18A_NM_078471	RRR_CGCCGCCGC	3463	3472	nan	nan	nan	nan
+MYO18A_NM_078471	DDDD_GATGATGATGAT	4186	4198	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYO18A_NM_078471	KKK_AAGAAGAAG	4384	4393	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CITED2_NM_001168389	QQQQ_CAGCAGCAGCAG	232	244	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CITED2_NM_001168389	GGG_GGCGGCGGC,GGG_GGCGGCGGC	664	700	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+KLF6_NM_001300	RRR_AGGAGGAGG	685	694	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EHBP1_NM_015252	DDD_GATGATGAT	682	691	nan	nan	nan
+EHBP1_NM_015252	EEEE_GAAGAAGAAGAA	1183	1195	nan	nan	nan	nan	nan	nan
+EHBP1_NM_015252	KKK_AAGAAGAAG	2212	2221	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EHBP1_NM_015252	EEEE_GAAGAAGAAGAA	3427	3439	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EHBP1_NM_015252	EEE_GAAGAAGAA	3709	3718	nan	nan	nan	nan
+CUL4B_NM_003588	AAAAA_GCTGCTGCTGCTGCT	190	205	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CUL4B_NM_003588	SSS_AGCAGCAGC	280	289	nan	nan	nan	nan
+CUL4B_NM_003588	SSSSSS_TCCTCCTCCTCCTCCTCC,QQQ_CAGCAGCAG	511	565	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CUL4B_NM_003588	EEE_GAAGAAGAA	1363	1372	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EIF3H_NM_003756	QQQ_CAGCAGCAG	910	919	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+F2R_NM_001992	LLL_CTGCTGCTG	115	124	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP205_NM_015135	LLL_CTTCTTCTT	430	439	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP205_NM_015135	LLL_CTCCTCCTC	838	847	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP205_NM_015135	PPP_CCTCCTCCT	4231	4240	nan	nan	nan
+NUP205_NM_015135	QQQ_CAGCAGCAG	4624	4633	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMED5_NM_016040	VVV_GTGGTGGTG	718	727	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRCP_NM_199418	LLL_CTGCTGCTG	1126	1135	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAAP100_NM_025161	SSS_AGCAGCAGC	1693	1702	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+VAT1_NM_006373	AAAAAA_GCCGCCGCCGCCGCCGCC	211	229	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PDIA4_NM_004911	EEEEE_GAGGAGGAGGAGGAG	223	238	nan	nan	nan	nan	nan	nan	nan
+PDIA4_NM_004911	DDD_GATGATGAT	241	250	nan	nan	nan
+PDIA4_NM_004911	III_ATCATCATC	1018	1027	nan	nan	nan	nan	nan	nan
+CCDC97_NM_052848	QQQ_CAGCAGCAG	337	346	nan	nan	nan	nan
+CCDC97_NM_052848	EEEE_GAGGAGGAGGAG,EEE_GAGGAGGAG	823	865	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCDC97_NM_052848	EEE_GAGGAGGAG	1063	1072	nan	nan	nan	nan	nan	nan
+COG7_NM_153603	YYY_TACTACTAC	766	775	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PER1_NM_002616	LLL_CTGCTGCTG	1585	1594	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PER1_NM_002616	SSSS_TCCTCCTCCTCC	2056	2068	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PER1_NM_002616	DDD_GACGACGAC	2089	2098	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PER1_NM_002616	EEE_GAGGAGGAG	3904	3913	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LAMA2_NM_000426	QQQ_CAGCAGCAG	175	184	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CDC42SE1_NM_001038707	KKK_AAGAAGAAG	154	163	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	KKK_AAGAAGAAG	523	532	nan	nan	nan	nan
+PRG4_NM_005807	SSSSSS_TCCTCCTCCTCCTCCTCC,SSS_TCTTCTTCT	595	628	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC,TTT_ACCACCACC	1342	1375	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC	1624	1633	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC	1672	1681	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC	1762	1771	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC	1882	1891	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC	2305	2314	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRG4_NM_005807	TTT_ACCACCACC	2512	2521	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SHROOM1_NM_001172700	LLLL_CTGCTGCTGCTG	2245	2257	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANXA10_NM_007193	PPP_CCACCACCA	364	373	nan	nan	nan	nan	nan
+CCDC66_NM_001141947	EEE_GAGGAGGAG	1357	1366	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HYAL1_NM_153281	LLL_CTCCTCCTC	1234	1243	nan	nan	nan	nan
+PDCD5_NM_004708	TTT_ACAACAACA	415	424	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FBXO3_NM_012175	EEEE_GAGGAGGAGGAG	1375	1387	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FBXO3_NM_012175	DDD_GATGATGAT	1405	1414	nan	nan	nan	nan	nan	nan	nan	nan
+PARP4_NM_006437	QQQ_CAGCAGCAG	157	166	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PARP4_NM_006437	VVV_GTGGTGGTG	604	613	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANP32B_NM_006401	EEE_GAGGAGGAG	601	610	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANP32B_NM_006401	EEE_GAAGAAGAA	736	745	nan	nan	nan	nan	nan	nan
+ZBTB17_NM_001287603	EEE_GAGGAGGAG	820	829	nan	nan	nan	nan	nan	nan	nan	nan
+NUP214_NM_005085	AAA_GCAGCAGCA	3379	3388	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP214_NM_005085	TTT_ACCACCACC	4276	4285	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP214_NM_005085	PPP_CCACCACCA	4462	4471	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP214_NM_005085	AAA_GCAGCAGCA	4993	5002	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP214_NM_005085	GGG_GGAGGAGGA	5947	5956	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP214_NM_005085	SSS_AGCAGCAGC	6181	6190	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PDP2_NM_020786	LLL_CTGCTGCTG	1459	1468	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZNF512_NM_032434	EEE_GAAGAAGAA	1567	1576	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LSM7_NM_016199	QQQ_CAGCAGCAG	394	403	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLEC1B_NM_016509	SSS_TCCTCCTCC	175	184	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CALR_NM_004343	EEEE_GAGGAGGAGGAG	1231	1243	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RPRD1B_NM_021215	EEE_GAGGAGGAG	562	571	nan	nan	nan	nan
+NUP160_NM_015231	AAA_GCGGCGGCG	205	214	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RBPJ_NM_005349	KKK_AAAAAAAAA	343	352	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RBPJ_NM_005349	DDD_GATGATGAT	775	784	nan	nan	nan
+AHNAK_NM_001620	LLL_CTGCTGCTG	127	136	nan	nan	nan	nan	nan	nan	nan	nan
+MNDA_NM_002432	SSS_TCATCATCA	634	643	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CD93_NM_012072	LLLLLLL_CTGCTGCTGCTGCTGCTGCTG	118	139	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CD93_NM_012072	LLL_CTGCTGCTG	529	538	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HAUS7_NM_017518	EEEE_GAGGAGGAGGAG	757	769	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MED17_NM_004268	EEEE_GAGGAGGAGGAG	265	277	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CANX_NM_001746	DDD_GATGATGAT	172	181	nan	nan	nan	nan	nan
+CANX_NM_001746	EEE_GAGGAGGAG	1717	1726	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SCD_NM_005063	TTTTT_ACCACCACCACCACC	142	157	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TCTN3_NM_015631	CCC_TGCTGCTGC	406	415	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SYNE2_NM_182914	EEEE_GAAGAAGAAGAA	6118	6130	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SYNE2_NM_182914	QQQ_CAGCAGCAG	8029	8038	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SYNE2_NM_182914	LLL_CTGCTGCTG	20185	20194	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SYNE2_NM_182914	EEE_GAGGAGGAG	20596	20605	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SYNE2_NM_182914	LLLL_CTGCTGCTGCTG	20695	20707	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NONO_NM_001145408	QQQ_CAGCAGCAG,QQQ_CAGCAGCAG	172	205	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NONO_NM_001145408	QQQ_CAGCAGCAG	937	946	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GAPVD1_NM_015635	PPP_CCACCACCA	2737	2746	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MBD4_NM_003925	SSS_AGTAGTAGT	676	685	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MBD4_NM_003925	KKK_AAAAAAAAA	1030	1039	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PJA1_NM_145119	EEE_GAGGAGGAG	478	487	nan	nan	nan	nan	nan	nan	nan	nan
+PJA1_NM_145119	DDD_GATGATGAT	931	940	nan	nan	nan
+PJA1_NM_145119	NNN_AACAACAAC	1579	1588	nan	nan	nan	nan
+QPCT_NM_012413	LLLL_CTGCTGCTGCTG	142	154	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CKAP4_NM_006825	PPP_CCGCCGCCG,PPPP_CCGCCGCCGCCG	205	238	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CKAP4_NM_006825	GGGGGGG_GGCGGCGGCGGCGGCGGCGGC,SSSSSS_TCCTCCTCCTCCTCCTCC,AAAAA_GCCGCCGCCGCCGCC	310	382	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LPIN1_NM_001261428	SSS_TCTTCTTCT	1204	1213	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LPIN1_NM_001261428	LLL_CTGCTGCTG	2608	2617	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HGSNAT_NM_152419	LLL_CTGCTGCTG	130	139	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HGSNAT_NM_152419	GGG_GGAGGAGGA	877	886	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HGSNAT_NM_152419	LLL_CTGCTGCTG	1432	1441	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ASPH_NM_004318	SSSS_AGCAGCAGCAGC	136	148	nan	nan	nan	nan	nan	nan	nan	nan	nan
+YTHDC2_NM_022828	GGG_GGCGGCGGC,GGG_GGCGGCGGC	154	193	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+YTHDC2_NM_022828	GGG_GGTGGTGGT	2959	2968	nan	nan	nan
+NUP153_NM_001278209	DDD_GATGATGAT	628	637	nan	nan	nan
+NUP153_NM_001278209	EEE_GAGGAGGAG	1486	1495	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUP153_NM_001278209	SSS_TCTTCTTCT	4558	4567	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SF3B2_NM_006842	PPP_CCGCCGCCG	145	154	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SF3B2_NM_006842	PPP_CCACCACCA	376	385	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SF3B2_NM_006842	EEE_GAGGAGGAG,QQQ_CAGCAGCAG	526	559	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SF3B2_NM_006842	KKK_AAGAAGAAG	1090	1099	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SF3B2_NM_006842	KKK_AAGAAGAAG	1357	1366	nan	nan	nan	nan	nan
+SF3B2_NM_006842	KKK_AAGAAGAAG	1450	1459	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SF3B2_NM_006842	KKK_AAGAAGAAG	2401	2410	nan	nan	nan	nan
+AGT_NM_000029	LLL_CTGCTGCTG	1123	1132	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SRRT_NM_015908	EEEEE_GAGGAGGAGGAGGAG	910	925	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SRRT_NM_015908	EEE_GAGGAGGAG	1237	1246	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SRRT_NM_015908	EEE_GAAGAAGAA	1291	1300	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SRRT_NM_015908	EEEE_GAGGAGGAGGAG	1813	1825	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MAP2K1_NM_002755	KKK_AAGAAGAAG	106	115	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+COL18A1_NM_130444	PPP_CCACCACCA	730	739	nan	nan	nan	nan	nan	nan
+VEGFA_NM_001025366	RRR_CGGCGGCGG,AAA_GCGGCGGCG	157	184	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLK_NM_014720	KKKK_AAGAAGAAGAAG	145	157	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLK_NM_014720	EEE_GAAGAAGAA	307	316	nan	nan	nan	nan
+SLK_NM_014720	QQQ_CAGCAGCAG	3037	3046	nan	nan	nan	nan	nan	nan	nan	nan
+SUZ12_NM_015355	AAA_GCGGCGGCG	193	202	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SUZ12_NM_015355	SSSSS_TCCTCCTCCTCCTCC	262	277	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RALY_NM_016732	KKK_AAGAAGAAG	763	772	nan	nan	nan	nan
+RALY_NM_016732	GGGG_GGCGGCGGCGGC,GGG_GGTGGTGGT	790	811	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FYTTD1_NM_032288	PPP_CCGCCGCCG	148	157	nan	nan	nan	nan	nan	nan	nan	nan
+WDR4_NM_018669	QQQ_CAGCAGCAG	1237	1246	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HLX_NM_021958	AAA_GCCGCCGCC	304	313	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HLX_NM_021958	QQQ_CAACAACAA,QQQ_CAGCAGCAG	472	490	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HLX_NM_021958	GGGG_GGCGGCGGCGGC	1381	1393	nan	nan	nan	nan	nan
+HLX_NM_021958	SSS_AGCAGCAGC,GGGG_GGCGGCGGCGGC	1429	1477	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DGCR2_NM_005137	SSS_AGCAGCAGC	1636	1645	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GALNT10_NM_198321	III_ATCATCATC	544	553	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+AGXT_NM_000030	KKK_AAGAAGAAG	1264	1273	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+KNG1_NM_001102416	DDD_GATGATGAT	1537	1546	nan	nan	nan	nan
+NOL6_NM_022917	KKK_AAGAAGAAG	397	406	nan	nan	nan	nan	nan	nan
+NOL6_NM_022917	QQQ_CAGCAGCAG	2632	2641	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MAST4_NM_001164664	PPPPPP_CCGCCGCCGCCGCCGCCG	286	304	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MAST4_NM_001164664	PPP_CCGCCGCCG	385	394	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MAST4_NM_001164664	VVV_GTGGTGGTG	4705	4714	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MAST4_NM_001164664	SSS_AGCAGCAGC	6664	6673	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MSN_NM_002444	KKK_AAGAAGAAG	1078	1087	nan	nan	nan	nan
+NPDC1_NM_015392	AAA_GCCGCCGCC	193	202	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ITIH1_NM_002215	VVV_GTGGTGGTG	2422	2431	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+C1QB_NM_000491	MMM_ATGATGATG	100	109	1.520833	1.520833	1.520833
+SIK2_NM_015191	QQQ_CAGCAGCAG	2056	2065	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SIK2_NM_015191	QQQQ_CAGCAGCAGCAG,PPP_CCACCACCA	2554	2596	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PPARGC1A_NM_013261	PPP_CCACCACCA	1072	1081	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+THUMPD1_NM_017736	DDD_GATGATGAT	373	382	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DNMBP_NM_015221	EEE_GAGGAGGAG	820	829	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCDC8_NM_032040	RRR_CGCCGCCGC	607	616	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MARS_NM_004990	AAA_GCCGCCGCC	148	157	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MARS_NM_004990	EEEE_GAGGAGGAGGAG	760	772	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MARS_NM_004990	EEE_GAGGAGGAG	787	796	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MARS_NM_004990	LLL_CTGCTGCTG	2011	2020	nan	nan	nan	nan	nan
+HIRIP3_NM_003609	EEE_GAGGAGGAG	262	271	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HIRIP3_NM_003609	EEE_GAGGAGGAG	580	589	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCDC25_NM_018246	SSS_AGCAGCAGC	118	127	nan	nan	nan	nan
+CCDC25_NM_018246	KKK_AAGAAGAAG	622	631	nan	nan	nan	nan	nan	nan	nan
+AFF1_NM_001166693	KKK_AAGAAGAAG	2125	2134	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SRRM1_NM_001303448	SSSS_TCCTCCTCCTCC	1585	1597	nan	nan	nan	nan	nan	nan	nan
+SRRM1_NM_001303448	PPP_CCTCCTCCT,PPP_CCACCACCA	1828	1867	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SRRM1_NM_001303448	PPP_CCACCACCA	2020	2029	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+H1F0_NM_005318	KKK_AAGAAGAAG	538	547	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+H1F0_NM_005318	KKK_AAGAAGAAG	673	682	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+POLDIP3_NM_001278657	AAA_GCGGCGGCG	142	151	nan	nan	nan	nan	nan	nan	nan
+POLDIP3_NM_001278657	DDD_GATGATGAT	709	718	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+POLDIP3_NM_001278657	SSS_TCCTCCTCC	1303	1312	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ALDH2_NM_000690	AAA_GCCGCCGCC	154	163	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CREB3L2_NM_194071	EEE_GAGGAGGAG	901	910	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCDC117_NM_173510	EEEE_GAGGAGGAGGAG	319	331	nan	nan	nan	nan	nan
+CCDC117_NM_173510	DDD_GATGATGAT	331	340	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	LLL_CTCCTCCTC	1678	1687	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	EEE_GAGGAGGAG	2476	2485	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	TTT_ACCACCACC	4207	4216	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	AAAA_GCAGCAGCAGCA	4765	4777	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	QQQ_CAGCAGCAG	5560	5569	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	LLL_CTGCTGCTG	5803	5812	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	EEEE_GAGGAGGAGGAG	6367	6379	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPTBN2_NM_006946	PPP_CCACCACCA	6487	6496	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ASMTL_NM_004192	LLL_CTGCTGCTG	1753	1762	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SUPT7L_NM_001282729	QQQ_CAGCAGCAG	361	370	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TIGD6_NM_030953	DDD_GATGATGAT	1369	1378	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EHHADH_NM_001966	EEE_GAGGAGGAG	853	862	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM115_NM_007024	VVV_GTGGTGGTG	160	169	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM115_NM_007024	VVV_GTGGTGGTG	343	352	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM115_NM_007024	LLL_CTGCTGCTG	613	622	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM115_NM_007024	DDD_GATGATGAT	1021	1030	nan	nan	nan
+EGLN1_NM_022051	GGG_GGCGGCGGC	625	634	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SERPINI1_NM_005025	AAA_GCTGCTGCT	1150	1159	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SESN2_NM_031459	LLL_CTGCTGCTG	394	403	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+REST_NM_005612	GGG_GGAGGAGGA	130	139	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EEA1_NM_003566	QQQ_CAGCAGCAG	3088	3097	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NADK_NM_001198994	EEEEEEEEE_GAGGAGGAGGAGGAGGAGGAGGAGGAG	1843	1870	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RAD21_NM_006265	TTT_ACTACTACT	655	664	nan	nan	nan	nan
+RAD21_NM_006265	PPP_CCACCACCA	1507	1516	nan	nan	nan	nan	nan	nan	nan
+KIAA1551_NM_018169	PPPPP_CCTCCTCCTCCTCCT	928	943	nan	nan	nan	nan	nan	nan	nan	nan
+ESPN_NM_031475	LLL_CTGCTGCTG	874	883	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ESPN_NM_031475	PPPP_CCGCCGCCGCCG	1900	1912	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan
+ESPN_NM_031475	EEEE_GAGGAGGAGGAG,EEEEE_GAGGAGGAGGAGGAG	2401	2440	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ESPN_NM_031475	EEE_GAGGAGGAG	2521	2530	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HADHA_NM_000182	GGG_GGAGGAGGA	538	547	nan	nan	nan	nan
+WBSCR22_NM_001202560	LLL_CTGCTGCTG	397	406	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NADSYN1_NM_018161	EEE_GAGGAGGAG	1084	1093	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANAPC11_NM_001002244	AAA_GCAGCAGCA	607	616	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EFTUD1_NM_024580	AAA_GCAGCAGCA	1459	1468	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAF2_NM_014613	EEE_GAGGAGGAG	1063	1072	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EMILIN1_NM_007046	SSS_AGCAGCAGC	901	910	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EMILIN1_NM_007046	QQQ_CAGCAGCAG	1042	1051	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+C9orf64_NM_032307	LLL_CTGCTGCTG	199	208	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+APTX_NM_001195248	VVV_GTGGTGGTG	703	712	nan	nan	nan	nan	nan	nan
+TBL2_NM_012453	KKK_AAGAAGAAG	1036	1045	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TBL2_NM_012453	QQQ_CAGCAGCAG	1384	1393	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IL6R_NM_000565	LLL_CTGCTGCTG	340	349	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NRBF2_NM_030759	LLL_CTCCTCCTC	301	310	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLOD2_NM_182943	DDD_GATGATGAT	664	673	nan	nan	nan	nan	nan	nan	nan	nan
+C2CD2L_NM_014807	SSS_AGCAGCAGC	1165	1174	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+C2CD2L_NM_014807	SSS_AGCAGCAGC	1579	1588	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SUGCT_NM_001193311	EEE_GAAGAAGAA	1111	1120	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STAB2_NM_017564	SSS_TCTTCTTCT	3331	3340	nan	nan	nan
+RXRA_NM_002957	SSS_AGCAGCAGC	403	412	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RXRA_NM_002957	FFF_TTCTTCTTC	1408	1417	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARHGEF6_NM_004840	NNN_AACAACAAC	1690	1699	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARHGEF6_NM_004840	EEE_GAAGAAGAA	2317	2326	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RAD54B_NM_012415	GGG_GGAGGAGGA	730	739	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PHYHD1_NM_174933	VVV_GTGGTGGTG	505	514	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MKL2_NM_001308142	QQQQ_CAGCAGCAGCAG	1090	1102	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MKL2_NM_001308142	SSS_TCATCATCA	1447	1456	nan	nan	nan	nan	nan	nan	nan	nan
+MKL2_NM_001308142	QQQ_CAGCAGCAG	1924	1933	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ALKBH7_NM_032306	EEE_GAGGAGGAG	229	238	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ALKBH7_NM_032306	RRRR_CGCCGCCGCCGC	268	280	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+JMJD8_NM_001005920	EEE_GAGGAGGAG	277	286	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LNX2_NM_153371	SSSS_AGCAGCAGCAGC	1408	1420	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SEPT11_NM_001306147	EEE_GAAGAAGAA	1141	1150	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SEPT11_NM_001306147	KKK_AAGAAGAAG	1279	1288	nan	nan	nan	nan	nan
+SEPT11_NM_001306147	EEE_GAGGAGGAG	1294	1303	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RANBP2_NM_006267	DDDD_GATGATGATGAT	3589	3601	nan	nan	nan	nan
+RANBP2_NM_006267	EEE_GAAGAAGAA	3670	3679	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RANBP2_NM_006267	DDD_GATGATGAT	6094	6103	nan	nan	nan	nan	nan
+RANBP2_NM_006267	DDD_GATGATGAT	7984	7993	nan	nan	nan	nan	nan	nan	nan	nan
+SEC16A_NM_014866	NNN_AATAATAAT	205	214	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SEC16A_NM_014866	EEE_GAGGAGGAG	2494	2503	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SEC16A_NM_014866	YYYY_TACTACTACTAC	3574	3586	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SEC16A_NM_014866	EEE_GAGGAGGAG	4873	4882	nan	nan	nan	nan	nan
+SEC16A_NM_014866	NNN_AACAACAAC	5236	5245	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CMTM8_NM_178868	TTT_ACCACCACC	136	145	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CMTM8_NM_178868	SSSS_AGCAGCAGCAGC	175	187	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+BTBD1_NM_025238	PPPP_CCGCCGCCGCCG	172	184	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+BTBD1_NM_025238	AAA_GCCGCCGCC	340	349	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+BTBD1_NM_025238	NNN_AATAATAAT	1489	1498	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GRIPAP1_NM_020137	EEE_GAGGAGGAG	118	127	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GRIPAP1_NM_020137	QQQQ_CAGCAGCAGCAG	1210	1222	nan	nan	nan	nan	nan
+GRIPAP1_NM_020137	EEE_GAGGAGGAG	1549	1558	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GRIPAP1_NM_020137	QQQQQ_CAGCAGCAGCAGCAG	1708	1723	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GRIPAP1_NM_020137	EEE_GAGGAGGAG	1783	1792	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FOXRED1_NM_017547	KKK_AAGAAGAAG	211	220	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TRA2A_NM_013293	GGG_GGCGGCGGC	763	772	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PACSIN2_NM_001184970	KKK_AAGAAGAAG	1048	1057	nan	nan	nan	nan	nan
+PACSIN2_NM_001184970	DDD_GACGACGAC	1357	1366	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARSA_NM_000487	LLL_CTGCTGCTG	1186	1195	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC39A6_NM_012319	DDD_GATGATGAT	1480	1489	nan	nan	nan	nan	nan	nan
+SLC39A6_NM_012319	EEE_GAAGAAGAA	1636	1645	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC39A6_NM_012319	HHH_CACCACCAC	1801	1810	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LPPR2_NM_001170635	LLL_CTGCTGCTG	1264	1273	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+APBB1IP_NM_019043	PPP_CCTCCTCCT	193	202	nan	nan	nan
+APBB1IP_NM_019043	PPP_CCACCACCA	523	532	nan	nan	nan	nan	nan
+APBB1IP_NM_019043	PPP_CCGCCGCCG,PPP_CCGCCGCCG	1762	1783	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+APBB1IP_NM_019043	PPP_CCGCCGCCG	1804	1813	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+APBB1IP_NM_019043	PPPPPP_CCGCCGCCGCCGCCGCCG	1897	1915	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+KIAA0907_NM_014949	AAAA_GCTGCTGCTGCT	271	283	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHMP4A_NM_014169	EEE_GAAGAAGAA	778	787	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TBC1D1_NM_015173	RRR_CGGCGGCGG	3538	3547	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LTBP1_NM_206943	PPPPPPP_CCGCCGCCGCCGCCGCCGCCG	397	418	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+POM121_NM_001257190	SSS_AGCAGCAGC	1834	1843	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+POM121_NM_001257190	SSS_AGCAGCAGC	2038	2047	nan	nan	nan	nan	nan	nan	nan
+POM121_NM_001257190	SSS_AGCAGCAGC	2554	2563	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+POM121_NM_001257190	TTT_ACCACCACC	2668	2677	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SIGLEC10_NM_033130	LLL_CTGCTGCTG	112	121	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ABCC2_NM_000392	EEE_GAAGAAGAA	2734	2743	nan	nan	nan	nan	nan
+USP7_NM_003470	QQQQQQQ_CAGCAGCAGCAGCAGCAGCAG	109	130	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PSMC1_NM_002802	KKK_AAGAAGAAG	205	214	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CASP8_NM_001080125	SSS_AGCAGCAGC	832	841	nan	nan	nan	nan
+SLC12A6_NM_133647	TTT_ACCACCACC	115	124	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC12A6_NM_133647	CCC_TGCTGCTGC	778	787	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RECQL_NM_002907	KKK_AAAAAAAAA	211	220	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PCYT1A_NM_005017	SSS_AGCAGCAGC	1060	1069	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+YTHDF3_NM_001277813	DDD_GATGATGAT	202	211	nan	nan	nan	nan
+YTHDF3_NM_001277813	PPP_CCACCACCA	1036	1045	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+YTHDF3_NM_001277813	QQQ_CAGCAGCAG	1147	1156	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAN1_NM_014967	PPP_CCACCACCA	406	415	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HPD_NM_002150	EEE_GAGGAGGAG	1213	1222	nan	nan	nan	nan	nan	nan	nan	nan
+CYP39A1_NM_016593	EEE_GAAGAAGAA	331	340	nan	nan	nan	nan	nan
+IFI16_NM_001206567	III_ATCATCATC	703	712	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IFI16_NM_001206567	VVV_GTGGTGGTG	2077	2086	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM87B_NM_032824	RRRR_CGCCGCCGCCGC	139	151	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HLA-DMA_NM_006120	FFF_TTCTTCTTC	304	313	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+C19orf53_NM_014047	SSS_AGCAGCAGC	307	316	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DARS_NM_001349	QQQ_CAGCAGCAG	343	352	nan	nan	nan	nan
+RCL1_NM_005772	GGG_GGAGGAGGA	583	592	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RCL1_NM_005772	LLL_CTGCTGCTG	943	952	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANXA6_NM_001155	DDD_GATGATGAT	1069	1078	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLEKHG3_NM_001308147	NNN_AACAACAAC	283	292	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLEKHG3_NM_001308147	EEE_GAAGAAGAA	1837	1846	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLEKHG3_NM_001308147	SSS_AGCAGCAGC	2011	2020	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLEKHG3_NM_001308147	KKK_AAGAAGAAG	2206	2215	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLEKHG3_NM_001308147	FFF_TTCTTCTTC	3142	3151	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UBA52_NM_001033930	KKK_AAGAAGAAG,KKK_AAGAAGAAG	433	478	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RUFY1_NM_025158	QQQ_CAGCAGCAG	1168	1177	nan	nan	nan	nan	nan	nan	nan	nan
+SLC39A14_NM_001135153	HHH_CATCATCAT	850	859	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC39A14_NM_001135153	CCC_TGCTGCTGC	1318	1327	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PGAP2_NM_001256236	FFF_TTCTTCTTC	553	562	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PGAP2_NM_001256236	SSS_TCCTCCTCC	853	862	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LMBRD2_NM_001007527	LLL_TTGTTGTTG	697	706	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LMBRD2_NM_001007527	YYY_TATTATTAT	1477	1486	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LMBRD2_NM_001007527	DDD_GATGATGAT	1789	1798	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRRC2B_NM_013318	QQQ_CAGCAGCAG	1990	1999	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRRC2B_NM_013318	MMM_ATGATGATG	2122	2131	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRRC2B_NM_013318	EEE_GAGGAGGAG	3163	3172	nan	nan	nan	nan	nan
+PRRC2B_NM_013318	EEE_GAGGAGGAG	4084	4093	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRRC2B_NM_013318	GGG_GGTGGTGGT	4441	4450	nan	nan	nan
+PRRC2B_NM_013318	SSS_AGCAGCAGC	4987	4996	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRRC2B_NM_013318	QQQ_CAGCAGCAG	5935	5944	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PLBD1_NM_024829	LLLLLLL_CTGCTGCTGCTGCTGCTGCTG	154	175	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLCO4C1_NM_180991	YYY_TATTATTAT	1630	1639	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCDC86_NM_024098	EEE_GAGGAGGAG	961	970	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCDC86_NM_024098	KKK_AAGAAGAAG	1093	1102	nan	nan	nan	nan	nan	nan	nan	nan
+EPRS_NM_004446	NNN_AATAATAAT	2320	2329	nan	nan	nan	nan	nan	nan	nan
+EPRS_NM_004446	KKK_AAGAAGAAG	2986	2995	nan	nan	nan	nan	nan	nan	nan	nan
+MPZL1_NM_003953	AAA_GCGGCGGCG	172	181	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UROD_NM_000374	EEE_GAGGAGGAG	1039	1048	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RIN2_NM_001242581	EEE_GAGGAGGAG	556	565	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RIN2_NM_001242581	SSS_TCCTCCTCC	1555	1564	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RIN2_NM_001242581	LLL_CTGCTGCTG	2263	2272	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PDCL_NM_005388	EEE_GAGGAGGAG	403	412	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ALKBH3_NM_139178	PPP_CCACCACCA	760	769	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CSRNP1_NM_033027	SSSS_TCCTCCTCCTCC	157	169	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CSRNP1_NM_033027	EEE_GAGGAGGAG	1312	1321	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NSUN2_NM_017755	KKK_AAGAAGAAG	2227	2236	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZNF24_NM_006965	DDD_GATGATGAT	667	676	nan	nan	nan	nan
+CHDH_NM_018397	VVV_GTGGTGGTG	229	238	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHDH_NM_018397	LLL_CTGCTGCTG	301	310	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM106C_NM_001143842	AAA_GCTGCTGCT	118	127	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan
+TP53INP1_NM_033285	EEEEE_GAAGAAGAAGAAGAA	235	250	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC6A12_NM_003044	III_ATCATCATC	499	508	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UTP14A_NM_006649	EEE_GAAGAAGAA	1345	1354	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DHX33_NM_020162	GGGG_GGAGGAGGAGGA	229	241	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SERINC1_NM_020755	III_ATTATTATT	505	514	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+APP_NM_000484	EEEE_GAAGAAGAAGAA	811	823	nan	nan	nan	nan	nan	nan
+APP_NM_000484	TTTTTT_ACCACCACCACCACCACC	919	937	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+C15orf52_NM_207380	EEE_GAGGAGGAG	1192	1201	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NSD1_NM_022455	SSS_TCATCATCA	994	1003	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NSD1_NM_022455	EEE_GAAGAAGAA	6031	6040	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NSD1_NM_022455	KKK_AAGAAGAAG	6397	6406	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ACOT7_NM_181864	EEE_GAGGAGGAG	658	667	nan	nan	nan	nan	nan	nan	nan	nan
+COQ6_NM_182476	VVV_GTGGTGGTG	211	220	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MRC1_NM_002438	EEE_GAAGAAGAA	2989	2998	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GREM2_NM_022469	EEE_GAGGAGGAG	436	445	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UQCRH_NM_006004	EEE_GAGGAGGAG	148	157	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DHCR24_NM_014762	YYY_TACTACTAC	244	253	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NSA2_NM_014886	KKK_AAGAAGAAG	523	532	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HAGH_NM_005326	HHH_CACCACCAC	403	412	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SCAF8_NM_001286188	PPP_CCTCCTCCT	2236	2245	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SCAF8_NM_001286188	PPP_CCTCCTCCT	2329	2338	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PIGV_NM_001202554	LLL_CTGCTGCTG	1264	1273	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PSMA1_NM_148976	DDDD_GATGATGATGAT	790	802	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SREK1_NM_001077199	GGG_GGCGGCGGC	109	118	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SREK1_NM_001077199	AAA_GCAGCAGCA	547	556	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SREK1_NM_001077199	RRR_AGGAGGAGG	1594	1603	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FBXO18_NM_032807	KKK_AAGAAGAAG	1828	1837	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SIRPA_NM_001040022	EEE_GAGGAGGAG	190	199	nan	nan	nan	nan	nan	nan	nan	nan	nan
+THNSL1_NM_024838	DDD_GATGATGAT	358	367	nan	nan	nan	nan	nan
+IER5_NM_016545	QQQ_CAGCAGCAG	304	313	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IER5_NM_016545	CCC_TGCTGCTGC	688	697	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IER5_NM_016545	GGG_GGCGGCGGC	772	781	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IER5_NM_016545	DDD_GACGACGAC	862	871	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+APOL1_NM_145343	AAA_GCTGCTGCT	442	451	nan	nan	nan
+TRAM2_NM_012288	VVV_GTGGTGGTG	499	508	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TRAM2_NM_012288	LLL_CTGCTGCTG	751	760	nan	nan	nan	nan	nan	nan	nan
+TRAM2_NM_012288	LLL_CTGCTGCTG	985	994	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TPSB2_NM_024164	LLLL_CTGCTGCTGCTG	109	121	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARGLU1_NM_018011	RRR_CGGCGGCGG	247	256	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARGLU1_NM_018011	EEEE_GAGGAGGAGGAG	403	415	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CEP85_NM_022778	QQQ_CAGCAGCAG	1855	1864	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+WDR45B_NM_019613	KKK_AAGAAGAAG	364	373	nan	nan	nan	nan	nan	nan
+ZEB1_NM_001174096	EEE_GAAGAAGAA	226	235	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZEB1_NM_001174096	QQQ_CAACAACAA	493	502	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZEB1_NM_001174096	EEE_GAGGAGGAG	3223	3232	nan	nan	nan	nan
+ZEB1_NM_001174096	EEEEE_GAGGAGGAGGAGGAG,EEE_GAAGAAGAA	3295	3328	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HDGF_NM_001126050	EEE_GAGGAGGAG	793	802	nan	nan	nan	nan
+PURB_NM_033224	GGG_GGCGGCGGC	130	139	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PURB_NM_033224	GGG_GGCGGCGGC	172	181	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PURB_NM_033224	FFF_TTCTTCTTC	793	802	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf
+PURB_NM_033224	GGG_GGCGGCGGC	994	1003	nan	nan	nan	nan	nan	nan	nan	nan
+TBC1D23_NM_001199198	DDD_GATGATGAT	1018	1027	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TBC1D23_NM_001199198	EEE_GAAGAAGAA	1768	1777	nan	nan	nan	nan	nan	nan	nan
+TBC1D23_NM_001199198	DDD_GATGATGAT	1813	1822	nan	nan	nan
+TBC1D23_NM_001199198	KKK_AAAAAAAAA	2038	2047	nan	nan	nan	nan	nan
+KIF21A_NM_001173464	EEEEEE_GAGGAGGAGGAGGAGGAG	1942	1960	nan	nan	nan	nan	nan	nan	nan	nan
+SLC23A2_NM_203327	PPP_CCCCCCCCC	1324	1333	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IL1R2_NM_004633	KKK_AAAAAAAAA	787	796	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SPG20_NM_015087	EEE_GAAGAAGAA	1126	1135	nan	nan	nan	nan
+C2CD5_NM_001286175	PPP_CCTCCTCCT	2233	2242	nan	nan	nan	nan	nan	nan	nan
+SCAP_NM_012235	LLL_CTGCTGCTG	607	616	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SCAP_NM_012235	LLL_CTGCTGCTG	2269	2278	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SCAP_NM_012235	SSS_AGCAGCAGC	3280	3289	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ALDH1A1_NM_000689	LLL_CTGCTGCTG	400	409	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZC3H13_NM_015070	EEE_GAAGAAGAA	511	520	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZC3H13_NM_015070	SSS_AGCAGCAGC	3664	3673	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PEX3_NM_003630	SSS_TCTTCTTCT	760	769	nan	nan	nan	nan	nan
+VAMP7_NM_001185183	DDD_GATGATGAT	298	307	nan	nan	nan	nan
+VAMP7_NM_001185183	HHH_CATCATCAT	607	616	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+VAMP7_NM_001185183	KKK_AAGAAGAAG	697	706	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ERBB3_NM_001982	EEE_GAAGAAGAA	3664	3673	nan	nan	nan	nan
+WARS_NM_004184	DDD_GACGACGAC	1324	1333	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANKRD55_NM_024669	SSS_TCTTCTTCT	1627	1636	nan	nan	nan
+HRG_NM_000412	HHH_CATCATCAT	955	964	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EPG5_NM_020964	KKK_AAGAAGAAG	166	175	nan	nan	nan	nan
+EPG5_NM_020964	LLL_CTGCTGCTG	1009	1018	nan	nan	nan	nan
+EPG5_NM_020964	SSS_TCCTCCTCC	2314	2323	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EPG5_NM_020964	MMM_ATGATGATG	6922	6931	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TOMM20_NM_014765	PPP_CCACCACCA	442	451	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANKHD1_NM_017747	GGG_GGCGGCGGC	118	127	nan	nan	nan	nan	nan	nan
+ANKHD1_NM_017747	GGGG_GGCGGCGGCGGC	277	289	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANKHD1_NM_017747	AAA_GCTGCTGCT	655	664	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANKHD1_NM_017747	KKK_AAGAAGAAG	2587	2596	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANKHD1_NM_017747	TTT_ACCACCACC	4627	4636	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANKHD1_NM_017747	GGG_GGTGGTGGT	4849	4858	nan	nan	nan	nan	nan	nan	nan
+ARL6IP6_NM_152522	EEE_GAGGAGGAG	229	238	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CRNKL1_NM_016652	EEE_GAAGAAGAA	748	757	nan	nan	nan	nan	nan
+CRNKL1_NM_016652	EEE_GAAGAAGAA	1540	1549	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CRNKL1_NM_016652	EEE_GAAGAAGAA	2383	2392	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CRNKL1_NM_016652	QQQ_CAGCAGCAG	2581	2590	nan	nan	nan	nan	nan	nan	nan	nan
+ZFYVE26_NM_015346	AAA_GCAGCAGCA	2845	2854	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MPEG1_NM_001039396	GGG_GGTGGTGGT	2044	2053	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TRMT10C_NM_017819	KKK_AAAAAAAAA	484	493	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TRMT10C_NM_017819	AAA_GCAGCAGCA	559	568	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZNF395_NM_018660	AAAAAAA_GCTGCTGCTGCTGCTGCTGCT	1096	1117	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PPFIBP1_NM_177444	EEE_GAAGAAGAA	2230	2239	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+QRICH1_NM_017730	PPP_CCACCACCA	760	769	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+QRICH1_NM_017730	QQQ_CAGCAGCAG	922	931	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+QRICH1_NM_017730	QQQ_CAGCAGCAG	1066	1075	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+QRICH1_NM_017730	PPP_CCACCACCA,QQQQQ_CAGCAGCAGCAGCAG	1393	1417	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TPD52L1_NM_003287	EEE_GAGGAGGAG	694	703	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+COX8A_NM_004074	LLL_CTGCTGCTG	118	127	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MCM2_NM_004526	EEE_GAGGAGGAG	2173	2182	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM189-UBE2V1_NM_199203	LLL_CTGCTGCTG	292	301	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SNX17_NM_014748	VVV_GTGGTGGTG	961	970	nan	nan	nan	nan	nan	nan	nan	nan
+APIP_NM_015957	GGG_GGAGGAGGA	232	241	nan	nan	nan	nan
+SSNA1_NM_003731	EEE_GAGGAGGAG	202	211	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM208A_NM_001112736	GGG_GGCGGCGGC	157	166	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM208A_NM_001112736	GGGGG_GGCGGCGGCGGCGGC	220	235	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM208A_NM_001112736	EEE_GAAGAAGAA	2023	2032	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM208A_NM_001112736	QQQ_CAGCAGCAG	2365	2374	nan	nan	nan	nan	nan	nan
+FAM208A_NM_001112736	III_ATTATTATT	3361	3370	nan	nan	nan
+FAM208A_NM_001112736	EEE_GAAGAAGAA	3811	3820	nan	nan	nan	nan	nan	nan	nan	nan
+FAM208A_NM_001112736	III_ATTATTATT	3928	3937	nan	nan	nan	nan	nan
+ATP5J2-PTCD1_NM_001198879	EEEEE_GAGGAGGAGGAGGAG	493	508	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	KKK_AAGAAGAAG,EEE_GAGGAGGAG	679	709	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	RRR_CGGCGGCGG	1060	1069	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	QQQ_CAGCAGCAG,QQQQQQQQQQQQ_CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAG	1579	1630	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	EEE_GAGGAGGAG	1693	1702	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	EEE_GAAGAAGAA	1948	1957	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	KKK_AAGAAGAAG	2143	2152	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	EEE_GAGGAGGAG	2239	2248	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	PPP_CCTCCTCCT,EEE_GAGGAGGAG	2551	2590	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	SSS_AGCAGCAGC	5629	5638	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NCOR2_NM_006312	GGG_GGTGGTGGT	6736	6745	nan	nan	nan
+RPS25_NM_001028	KKKK_AAGAAGAAGAAG	118	130	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RPS25_NM_001028	KKK_AAGAAGAAG	193	202	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TWISTNB_NM_001002926	EEE_GAGGAGGAG,KKKK_AAGAAGAAGAAG	913	943	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SMG1_NM_015092	GGGGGG_GGCGGCGGCGGCGGCGGC	136	154	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SMG1_NM_015092	NNN_AACAACAAC	6076	6085	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SMG1_NM_015092	EEE_GAAGAAGAA	8854	8863	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SMG1_NM_015092	DDD_GATGATGAT	9124	9133	nan	nan	nan
+ALDOC_NM_005165	AAA_GCAGCAGCA	1153	1162	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TERF1_NM_017489	EEEEEEEE_GAGGAGGAGGAGGAGGAGGAGGAG	262	286	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FRMD4A_NM_018027	PPP_CCTCCTCCT	1843	1852	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FRMD4A_NM_018027	VVV_GTGGTGGTG	2641	2650	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FRMD4A_NM_018027	GGGG_GGCGGCGGCGGC	2752	2764	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANGPTL3_NM_014495	EEE_GAAGAAGAA	379	388	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANGPTL3_NM_014495	WWW_TGGTGGTGG	1303	1312	nan	nan	nan	nan
+HSP90B1_NM_003299	EEE_GAAGAAGAA	982	991	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HSP90B1_NM_003299	EEEEE_GAAGAAGAAGAAGAA	1039	1054	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HSP90B1_NM_003299	EEE_GAAGAAGAA	2377	2386	nan	nan	nan	nan
+SLC35B1_NM_005827	PPP_CCGCCGCCG	148	157	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC35B1_NM_005827	KKK_AAGAAGAAG	607	616	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RPS19BP1_NM_194326	KKKK_AAGAAGAAGAAG	433	445	nan	nan	nan	nan	nan
+FOXN3_NM_001085471	SSSSS_TCCTCCTCCTCCTCC	1165	1180	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+XKR8_NM_018053	LLLL_CTGCTGCTGCTG	721	733	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CWC15_NM_016403	EEE_GAAGAAGAA	451	460	nan	nan	nan	nan
+CWC15_NM_016403	DDDD_GATGATGATGAT	463	475	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+YME1L1_NM_139312	TTT_ACAACAACA	1057	1066	nan	nan	nan	nan	nan
+CERS4_NM_024552	AAA_GCGGCGGCG	1156	1165	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CKB_NM_001823	QQQ_CAGCAGCAG	649	658	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CKB_NM_001823	LLL_CTGCTGCTG	700	709	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RGL1_NM_015149	EEE_GAGGAGGAG	1666	1675	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RGL1_NM_015149	NNN_AACAACAAC	2056	2065	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+VTN_NM_000638	EEE_GAGGAGGAG	553	562	0.455882	0.151961	0.151961	0.455882	0.911765
+OSTM1_NM_014028	LLL_CTGCTGCTG	163	172	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UBE3A_NM_000462	AAA_GCTGCTGCT	697	706	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UBE3A_NM_000462	DDD_GATGATGAT	1189	1198	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MSH3_NM_002439	SSS_TCCTCCTCC	211	220	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM96B_NM_016062	GGG_GGCGGCGGC,GGG_GGCGGCGGC	106	130	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MTDH_NM_178812	LLLL_CTGCTGCTGCTG	280	292	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MTDH_NM_178812	KKK_AAGAAGAAG	442	451	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MTDH_NM_178812	DDD_GATGATGAT	1378	1387	nan	nan	nan
+MTDH_NM_178812	KKK_AAGAAGAAG	1444	1453	nan	nan	nan	nan	nan
+TMEM45A_NM_018004	EEE_GAAGAAGAA	913	922	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STAMBP_NM_213622	KKK_AAGAAGAAG	472	481	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STAMBP_NM_213622	VVV_GTGGTGGTG	868	877	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STAMBP_NM_213622	EEE_GAAGAAGAA	1045	1054	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NUDCD3_NM_015332	SSS_AGCAGCAGC	757	766	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	KKK_AAGAAGAAG	334	343	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	EEEE_GAGGAGGAGGAG	373	385	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	DDDD_GATGATGATGAT	499	511	nan	nan	nan	nan
+NOLC1_NM_001284388	SSSSS_AGCAGCAGCAGCAGC	757	772	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	EEE_GAGGAGGAG	790	799	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	EEE_GAGGAGGAG	1429	1438	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	EEE_GAGGAGGAG	1564	1573	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	KKK_AAGAAGAAG	1600	1609	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	SSS_TCTTCTTCT	1687	1696	nan	nan	nan
+NOLC1_NM_001284388	EEE_GAGGAGGAG,EEE_GAAGAAGAA	1819	1837	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NOLC1_NM_001284388	KKK_AAGAAGAAG	2155	2164	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SHC1_NM_001130040	EEE_GAGGAGGAG	1114	1123	nan	nan	nan	nan	nan	nan	nan
+ENAH_NM_001008493	PPP_CCTCCTCCT	1183	1192	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CYTH4_NM_013385	KKK_AAGAAGAAG	1258	1267	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PNPO_NM_018129	EEE_GAGGAGGAG	550	559	nan	nan	nan	nan
+ADORA3_NM_000677	TTT_ACCACCACC	232	241	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MSL2_NM_018133	MMM_ATGATGATG	322	331	nan	nan	nan	nan	nan	nan	nan
+SNX20_NM_182854	LLL_CTGCTGCTG	718	727	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZCCHC17_NM_001282566	KKK_AAGAAGAAG,KKKK_AAGAAGAAGAAG,KKK_AAGAAGAAG	844	880	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RTCB_NM_014306	GGG_GGTGGTGGT	265	274	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ENTPD7_NM_020354	AAA_GCTGCTGCT	562	571	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HDLBP_NM_005336	IIII_ATCATCATCATC	2947	2959	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PNPLA6_NM_001166111	EEE_GAGGAGGAG	4153	4162	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CCZ1_NM_015622	EEE_GAGGAGGAG	475	484	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EIF5_NM_001969	PPPPPPP_CCACCACCACCACCACCACCA	634	655	nan	nan	nan	nan	nan	nan	nan	nan
+EIF5_NM_001969	EEE_GAAGAAGAA	1276	1285	nan	nan	nan	nan
+FCGR2A_NM_001136219	LLL_CTGCTGCTG	175	184	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RTN4IP1_NM_032730	MMM_ATGATGATG	286	295	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+AVEN_NM_020371	GGG_GGCGGCGGC,GGG_GGCGGCGGC	211	232	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+AVEN_NM_020371	GGG_GGAGGAGGA	298	307	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+AVEN_NM_020371	EEE_GAAGAAGAA	946	955	nan	nan	nan	nan	nan	nan	nan	nan
+BACE2_NM_012105	LLL_CTGCTGCTG	121	130	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan
+BACE2_NM_012105	LLLL_CTGCTGCTGCTG	1564	1576	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RBM23_NM_001077351	KKK_AAGAAGAAG	277	286	nan	nan	nan	nan	nan	nan	nan	nan
+RBM23_NM_001077351	AAAAA_GCTGCTGCTGCTGCT,AAAA_GCCGCCGCCGCC	1252	1279	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+COG2_NM_007357	DDD_GACGACGAC	2158	2167	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HHIP_NM_022475	LLLL_CTGCTGCTGCTG	124	136	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HHIP_NM_022475	CCC_TGCTGCTGC	1966	1975	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STRN3_NM_001083893	QQQ_CAGCAGCAG	157	166	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CNPPD1_NM_015680	EEEE_GAGGAGGAGGAG	514	526	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	GGG_GGCGGCGGC,AAA_GCCGCCGCC	307	337	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	GGG_GGCGGCGGC	469	478	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	SSSS_TCCTCCTCCTCC,CCCC_TGCTGCTGCTGC	541	574	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	QQQQ_CAGCAGCAGCAG	607	619	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	PPPP_CCGCCGCCGCCG	682	694	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	PPPP_CCGCCGCCGCCG	727	739	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	GGGGGG_GGCGGCGGCGGCGGCGGC	1150	1168	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	PPP_CCGCCGCCG	1216	1225	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	PPP_CCGCCGCCG,QQQ_CAGCAGCAG	1288	1315	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	GGG_GGCGGCGGC	1381	1390	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	GGGGGG_GGCGGCGGCGGCGGCGGC	1543	1561	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	PPP_CCGCCGCCG	1597	1606	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPEB2_NM_001177382	QQQ_CAGCAGCAG,AAA_GCCGCCGCC	1696	1726	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NBAS_NM_015909	EEE_GAGGAGGAG	151	160	nan	nan	nan	nan	nan	nan	nan
+NBAS_NM_015909	TTT_ACCACCACC	4366	4375	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NBAS_NM_015909	LLL_CTGCTGCTG	6829	6838	nan	nan	nan	nan
+TMEM129_NM_001127266	LLL_CTGCTGCTG	388	397	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM129_NM_001127266	QQQ_CAGCAGCAG	646	655	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ALB_NM_000477	LLL_CTGCTGCTG	1204	1213	0.05848	0.05848	0.175439
+ZRANB3_NM_032143	GGG_GGAGGAGGA	3181	3190	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LRP1_NM_002332	QQQ_CAGCAGCAG	2491	2500	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LRP1_NM_002332	SSS_TCCTCCTCC	11365	11374	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LRP1_NM_002332	QQQ_CAGCAGCAG	13342	13351	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LRP1_NM_002332	LLLL_CTGCTGCTGCTG	13390	13402	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYCBP2_NM_015057	MMM_ATGATGATG,AAA_GCCGCCGCC	100	139	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYCBP2_NM_015057	LLL_CTGCTGCTG	295	304	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYCBP2_NM_015057	EEE_GAAGAAGAA	2320	2329	nan	nan	nan	nan	nan
+MYCBP2_NM_015057	AAA_GCTGCTGCT	5977	5986	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYCBP2_NM_015057	HHH_CATCATCAT	10300	10309	nan	nan	nan
+MYCBP2_NM_015057	RRR_AGAAGAAGA	10597	10606	nan	nan	nan	nan
+MYCBP2_NM_015057	EEE_GAAGAAGAA	12727	12736	nan	nan	nan	nan
+MYCBP2_NM_015057	EEEE_GAAGAAGAAGAA	13012	13024	nan	nan	nan	nan	nan	nan	nan	nan
+CLU_NM_001831	LLL_CTGCTGCTG,LLL_CTGCTGCTG	112	139	0.208	0.208	0.208	0.208
+RBM6_NM_005777	PPP_CCTCCTCCT	190	199	nan	nan	nan	nan	nan
+GTF3C5_NM_001122823	EEE_GAGGAGGAG	850	859	nan	nan	nan	nan	nan	nan	nan	nan
+GTF3C5_NM_001122823	EEEE_GAGGAGGAGGAG,EEEE_GAGGAGGAGGAG	1591	1618	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UTRN_NM_007124	EEE_GAGGAGGAG	967	976	nan	nan	nan	nan
+UTRN_NM_007124	EEE_GAAGAAGAA	1252	1261	nan	nan	nan	nan
+UTRN_NM_007124	DDD_GATGATGAT	1447	1456	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UTRN_NM_007124	PPPP_CCTCCTCCTCCT	2113	2125	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UTRN_NM_007124	QQQ_CAGCAGCAG	7081	7090	nan	nan	nan	nan
+BRPF3_NM_015695	PPPP_CCACCACCACCA	2452	2464	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RNASEK_NM_001004333	LLL_CTCCTCCTC	445	454	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+H2AFZ_NM_002106	GGG_GGTGGTGGT	418	427	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM96A_NM_032231	EEE_GAAGAAGAA	319	328	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PKP2_NM_004572	III_ATCATCATC	1690	1699	nan	nan	nan	nan	nan	nan	nan	nan	nan
+BTBD8_NM_183242	DDD_GATGATGAT	622	631	nan	nan	nan	nan	nan	nan	nan
+DMRTA1_NM_022160	AAAA_GCCGCCGCCGCC	280	292	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DMRTA1_NM_022160	GGG_GGCGGCGGC	622	631	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+POLG2_NM_007215	VVV_GTGGTGGTG	451	460	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TNFRSF1A_NM_001065	LLL_CTGCTGCTG	124	133	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TNFRSF1A_NM_001065	TTT_ACTACTACT	883	892	nan	nan	nan
+BBS9_NM_198428	DDD_GATGATGAT	1810	1819	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLUH_NM_015229	AAA_GCGGCGGCG	142	151	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLUH_NM_015229	VVV_GTGGTGGTG	1516	1525	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLUH_NM_015229	EEE_GAGGAGGAG	2092	2101	nan	nan	nan	nan
+TTR_NM_000371	LLL_CTCCTCCTC	118	127	0.8125	0.8125	0.8125
+ZMYM5_NM_001142684	DDDDDDD_GATGATGATGATGATGATGAT	256	277	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan
+ZMYM5_NM_001142684	QQQ_CAACAACAA	796	805	nan	nan	nan	nan	nan
+ARMCX6_NM_001184768	EEE_GAGGAGGAG	211	220	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARMCX6_NM_001184768	EEE_GAGGAGGAG	256	265	nan	nan	nan	nan
+PHLDA1_NM_007350	PPPP_CCGCCGCCGCCG	352	364	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PHLDA1_NM_007350	LLLL_CTGCTGCTGCTG	445	457	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PHLDA1_NM_007350	QQQQQ_CAGCAGCAGCAGCAG,QQQQQQ_CAGCAGCAGCAGCAGCAG	667	703	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PHLDA1_NM_007350	QQQ_CAGCAGCAG	1009	1018	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FKBP8_NM_012181	EEE_GAGGAGGAG	214	223	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FKBP8_NM_012181	EEE_GAGGAGGAG	886	895	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SUPT5H_NM_003169	EEE_GAGGAGGAG	130	139	nan	nan	nan	inf	nan	nan	nan	nan	nan
+SUPT5H_NM_003169	EEE_GAGGAGGAG,EEE_GAGGAGGAG	235	256	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SUPT5H_NM_003169	EEE_GAAGAAGAA	499	508	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SUPT5H_NM_003169	QQQ_CAGCAGCAG	598	607	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GCGR_NM_000160	LLL_CTGCTGCTG,LLLL_CTGCTGCTGCTG	127	151	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZRANB2_NM_203350	GGG_GGTGGTGGT	406	415	nan	nan	nan	nan
+ZRANB2_NM_203350	EEE_GAAGAAGAA	664	673	nan	nan	nan	nan
+HADHB_NM_000183	VVV_GTGGTGGTG	262	271	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan
+F2_NM_000506	EEE_GAGGAGGAG	985	994	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STX5_NM_003164	SSS_AGCAGCAGC	199	208	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LAMTOR1_NM_017907	LLL_CTGCTGCTG	160	169	nan	nan	nan	nan	nan
+LAMTOR1_NM_017907	SSS_AGCAGCAGC	385	394	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PPAPDC1B_NM_001102559	AAAA_GCGGCGGCGGCG	109	121	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PCDH12_NM_016580	SSSSS_AGCAGCAGCAGCAGC	3628	3643	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UGT2B15_NM_001076	KKK_AAGAAGAAG	1672	1681	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MED8_NM_052877	QQQ_CAGCAGCAG	790	799	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ELF3_NM_001114309	YYY_TACTACTAC	1102	1111	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+WIBG_NM_032345	RRR_AGGAGGAGG	664	673	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CD2AP_NM_012120	KKK_AAGAAGAAG	412	421	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC25A6_NM_001636	AAA_GCCGCCGCC	151	160	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC25A6_NM_001636	LLL_CTGCTGCTG	199	208	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC25A6_NM_001636	III_ATCATCATC	649	658	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC25A6_NM_001636	MMM_ATGATGATG	811	820	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ARNT_NM_001668	DDD_GATGATGAT	247	256	nan	nan	nan	nan	nan	nan	nan	nan
+ARNT_NM_001668	DDD_GATGATGAT	286	295	nan	nan	nan	nan	nan	nan
+CDC34_NM_004359	LLL_CTGCTGCTG	136	145	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CDC34_NM_004359	EEE_GAGGAGGAG	748	757	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SIL1_NM_001037633	EEE_GAGGAGGAG	274	283	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SIL1_NM_001037633	KKK_AAGAAGAAG	955	964	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SIL1_NM_001037633	EEE_GAGGAGGAG	1138	1147	nan	nan	nan	nan
+RASSF5_NM_182663	PPP_CCGCCGCCG	199	208	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RASSF5_NM_182663	RRR_CGGCGGCGG	373	382	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RASSF5_NM_182663	TTT_ACCACCACC	982	991	nan	nan	nan	nan	nan
+AK1_NM_000476	LLL_CTGCTGCTG	439	448	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STAG2_NM_001042749	GGG_GGAGGAGGA	274	283	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+STAG2_NM_001042749	DDD_GATGATGAT	2611	2620	nan	nan	nan
+STAG2_NM_001042749	SSSS_AGTAGTAGTAGT	3385	3397	nan	nan	nan	nan
+PLEKHA5_NM_001256470	EEE_GAAGAAGAA	1396	1405	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SASH3_NM_018990	LLL_CTGCTGCTG	1033	1042	nan	nan	nan	nan	nan
+SLC19A3_NM_025243	LLL_CTGCTGCTG	295	304	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SLC19A3_NM_025243	LLL_CTGCTGCTG	382	391	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PHF14_NM_014660	EEE_GAAGAAGAA	298	307	nan	nan	nan	nan	nan
+PHF14_NM_014660	EEEE_GAAGAAGAAGAA	406	418	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PHF14_NM_014660	KKKK_AAGAAGAAGAAG	904	916	nan	nan	nan	nan	nan
+NCEH1_NM_001146276	AAA_GCTGCTGCT	1054	1063	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RBBP6_NM_006910	GGG_GGTGGTGGT	1594	1603	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RBBP6_NM_006910	PPP_CCACCACCA	2506	2515	nan	nan	nan	nan
+RBBP6_NM_006910	EEE_GAAGAAGAA	4084	4093	nan	nan	nan	nan	nan
+RBBP6_NM_006910	KKKK_AAGAAGAAGAAG	5278	5290	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IL16_NM_172217	AAA_GCAGCAGCA	859	868	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IL16_NM_172217	EEE_GAAGAAGAA	2335	2344	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IL16_NM_172217	SSSSSS_TCCTCCTCCTCCTCCTCC	2596	2614	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CYHR1_NM_138496	AAA_GCTGCTGCT	205	214	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CYHR1_NM_138496	LLL_CTCCTCCTC	958	967	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ATF5_NM_012068	PPPP_CCACCACCACCA	490	502	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ATF5_NM_012068	PPP_CCTCCTCCT	658	667	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMED1_NM_006858	LLL_CTGCTGCTG	709	718	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PTEN_NM_001304717	AAAAA_GCGGCGGCGGCGGCG	118	133	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PTEN_NM_001304717	RRRRRR_CGGCGGCGGCGGCGGCGG	238	256	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PTEN_NM_001304717	AAA_GCCGCCGCC	295	304	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PTEN_NM_001304717	YYY_TATTATTAT	1144	1153	nan	nan	nan
+ASGR2_NM_080912	LLL_CTGCTGCTG	304	313	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DOCK7_NM_001271999	SSS_TCATCATCA	2683	2692	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DTWD2_NM_173666	DDD_GACGACGAC	241	250	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DTWD2_NM_173666	III_ATCATCATC	619	628	nan	nan	nan	nan
+BMPR2_NM_001204	AAA_GCAGCAGCA	670	679	nan	nan	nan	nan	nan	nan	nan	nan
+BMPR2_NM_001204	NNN_AACAACAAC	2809	2818	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TEX2_NM_018469	EEEE_GAGGAGGAGGAG,EEEE_GAGGAGGAGGAG	226	253	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TEX2_NM_018469	EEE_GAGGAGGAG	1141	1150	nan	nan	nan	nan
+TEX2_NM_018469	SSS_AGCAGCAGC	2356	2365	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MED1_NM_004774	SSS_TCCTCCTCC	3907	3916	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MED1_NM_004774	DDD_GATGATGAT	4807	4816	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAT1_NM_005245	GGG_GGAGGAGGA	9403	9412	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAT1_NM_005245	VVV_GTGGTGGTG	12685	12694	nan	nan	nan	nan	nan	nan	nan	nan
+HSP90AB1_NM_001271969	EEE_GAGGAGGAG	124	133	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+HSP90AB1_NM_001271969	KKK_AAGAAGAAG	892	901	nan	nan	nan	nan	nan
+HSP90AB1_NM_001271969	RRR_CGCCGCCGC	1441	1450	nan	nan	nan	nan	nan
+HSP90AB1_NM_001271969	EEE_GAGGAGGAG,KKK_AAGAAGAAG	1738	1756	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TANC1_NM_033394	EEE_GAAGAAGAA	1849	1858	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TANC1_NM_033394	LLL_CTGCTGCTG	3388	3397	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TMEM192_NM_001100389	EEE_GAAGAAGAA	721	730	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CYP3A4_NM_017460	VVV_GTGGTGGTG	1273	1282	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan
+ARHGEF12_NM_015313	DDD_GATGATGAT	1162	1171	nan	nan	nan	nan	nan	nan
+ARHGEF12_NM_015313	AAA_GCTGCTGCT	2746	2755	nan	nan	nan	nan	nan	nan	nan
+CTNNBL1_NM_030877	EEE_GAGGAGGAG	166	175	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CTNNBL1_NM_030877	EEE_GAAGAAGAA	226	235	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CTNNBL1_NM_030877	EEE_GAGGAGGAG	316	325	nan	nan	nan	nan	nan	nan
+CTNNBL1_NM_030877	EEE_GAGGAGGAG	1531	1540	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DOK3_NM_024872	TTT_ACCACCACC	559	568	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DOK3_NM_024872	VVV_GTGGTGGTG	754	763	nan	nan	nan	nan	nan	nan
+FAM199X_NM_207318	SSS_TCTTCTTCT	463	472	nan	nan	nan	nan
+FAM199X_NM_207318	SSS_AGCAGCAGC	946	955	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EGR1_NM_001964	SSSSSS_AGCAGCAGCAGCAGCAGC	283	301	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EGR1_NM_001964	SSSSSS_AGCAGCAGCAGCAGCAGC	334	352	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EGR1_NM_001964	QQQ_CAGCAGCAG	874	883	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TCAF1_NM_014719	WWW_TGGTGGTGG	1189	1198	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TCAF1_NM_014719	LLL_CTCCTCCTC	1246	1255	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+USP20_NM_006676	HHH_CACCACCAC	1288	1297	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PFAS_NM_012393	LLL_CTGCTGCTG	355	364	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PFAS_NM_012393	QQQ_CAGCAGCAG	2179	2188	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLNS1A_NM_001293	EEE_GAAGAAGAA	358	367	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLNS1A_NM_001293	DDD_GATGATGAT	406	415	nan	nan	nan	nan
+BTF3_NM_001037637	KKK_AAGAAGAAG	316	325	nan	nan	nan	nan	nan	nan
+BTF3_NM_001037637	DDDD_GATGATGATGAT	652	664	nan	nan	nan	nan
+MEX3C_NM_016626	PPPPP_CCGCCGCCGCCGCCG	166	181	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MEX3C_NM_016626	AAA_GCGGCGGCG	322	331	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MEX3C_NM_016626	EEE_GAGGAGGAG	433	442	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MEX3C_NM_016626	EEEE_GAGGAGGAGGAG,EEE_GAGGAGGAG,LLLL_CTGCTGCTGCTG	475	532	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MEX3C_NM_016626	AAAAA_GCGGCGGCGGCGGCG	637	652	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MEX3C_NM_016626	AAA_GCGGCGGCG	733	742	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MEX3C_NM_016626	QQQ_CAGCAGCAG	1156	1165	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EID2_NM_153232	AAA_GCGGCGGCG	340	349	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EID2_NM_153232	AAAA_GCGGCGGCGGCG	385	397	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GRB14_NM_004490	EEE_GAAGAAGAA	637	646	nan	nan	nan	nan	nan	nan	nan	nan
+GRB14_NM_004490	KKK_AAAAAAAAA	982	991	nan	nan	nan	nan	nan	nan	nan	nan
+BMS1_NM_014753	EEE_GAAGAAGAA	2203	2212	nan	nan	nan	nan
+BMS1_NM_014753	DDD_GATGATGAT	2212	2221	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+BMS1_NM_014753	EEE_GAAGAAGAA	2548	2557	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+BMS1_NM_014753	EEEE_GAGGAGGAGGAG	3826	3838	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TRIP12_NM_001284214	SSS_TCTTCTTCT	811	820	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+IGFBPL1_NM_001007563	LLLL_CTGCTGCTGCTG	136	148	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+UBAC2_NM_001144072	QQQ_CAGCAGCAG	898	907	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LRSAM1_NM_138361	SSS_AGCAGCAGC	961	970	nan	nan	nan	nan	nan	nan
+LRSAM1_NM_138361	CCC_TGCTGCTGC	2179	2188	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EIF5B_NM_015904	DDDDD_GATGATGATGATGAT	511	526	nan	nan	nan	nan	nan	nan
+EIF5B_NM_015904	EEE_GAAGAAGAA	928	937	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EIF5B_NM_015904	EEE_GAAGAAGAA	1159	1168	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EIF5B_NM_015904	EEEE_GAAGAAGAAGAA	1576	1588	nan	nan	nan	nan	nan	nan
+EIF5B_NM_015904	EEEEE_GAGGAGGAGGAGGAG,EEE_GAAGAAGAA	1696	1729	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+EIF5B_NM_015904	DDD_GATGATGAT	1885	1894	nan	nan	nan	nan	nan
+EIF5B_NM_015904	PPP_CCTCCTCCT	2818	2827	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NAPRT_NM_145201	AAA_GCGGCGGCG	130	139	nan	nan	nan	nan	nan	nan	nan	nan
+NAPRT_NM_145201	SSS_AGCAGCAGC	676	685	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+WWTR1_NM_015472	QQQ_CAGCAGCAG	685	694	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+WWTR1_NM_015472	QQQQQQ_CAGCAGCAGCAGCAGCAG	781	799	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CLASP2_NM_015097	DDD_GATGATGAT	3886	3895	nan	nan	nan	nan
+F8_NM_000132	DDD_GATGATGAT	1195	1204	nan	nan	nan	nan	nan
+RBM34_NM_015014	EEE_GAAGAAGAA	493	502	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RBM34_NM_015014	KKK_AAGAAGAAG	691	700	nan	nan	nan	nan	nan	nan	nan	nan
+EXOC3_NM_007277	VVV_GTGGTGGTG	1903	1912	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+USB1_NM_024598	SSS_AGCAGCAGC	127	136	nan	nan	nan	nan	nan	nan	nan
+TPRG1L_NM_182752	GGG_GGCGGCGGC	181	190	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TPRG1L_NM_182752	VVV_GTGGTGGTG	337	346	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+GADD45B_NM_015675	EEEE_GAGGAGGAGGAG	286	298	nan	nan	nan	nan	nan
+AGFG1_NM_001135187	QQQ_CAGCAGCAG	667	676	nan	nan	nan	nan	nan	nan	nan	nan
+AGFG1_NM_001135187	AAA_GCTGCTGCT	1483	1492	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NRP2_NM_201266	SSS_TCTTCTTCT	2617	2626	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NT5C1B-RDH14_NM_001199103	PPP_CCGCCGCCG	427	436	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NT5C1B-RDH14_NM_001199103	QQQQQ_CAGCAGCAGCAGCAG	724	739	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ABCC4_NM_005845	GGG_GGAGGAGGA	2350	2359	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ABCC4_NM_005845	PPP_CCACCACCA	3190	3199	nan	nan	nan	nan	nan	nan	nan
+CES1_NM_001025195	LLL_CTGCTGCTG	1081	1090	nan	nan	nan	nan	nan	nan
+HAX1_NM_006118	DDD_GATGATGAT	193	202	nan	nan	nan
+HAX1_NM_006118	EEEEE_GAAGAAGAAGAAGAA	205	220	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+LIMS2_NM_017980	NNN_AACAACAAC	445	454	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MIOS_NM_019005	EEE_GAAGAAGAA	1234	1243	nan	nan	nan	nan
+MIOS_NM_019005	AAA_GCTGCTGCT	1669	1678	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+C7_NM_000587	PPP_CCTCCTCCT	496	505	nan	nan	nan
+TUBB2A_NM_001069	EEEE_GAGGAGGAGGAG	1408	1420	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ANP32C_NM_012403	EEE_GAGGAGGAG	595	604	nan	nan	nan	nan
+ANP32C_NM_012403	EEE_GAGGAGGAG	613	622	nan	nan	nan	nan
+ANP32C_NM_012403	EEEEE_GAGGAGGAGGAGGAG	661	676	nan	nan	nan	nan	nan	nan	nan
+DAB2_NM_001343	EEE_GAAGAAGAA	625	634	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+INHBA_NM_002192	QQQ_CAGCAGCAG	628	637	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+INHBA_NM_002192	KKKK_AAGAAGAAGAAG	874	886	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+JMJD1C_NM_032776	QQQ_CAACAACAA	2593	2602	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RNF5_NM_006913	EEE_GAGGAGGAG	112	121	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+NAGK_NM_017567	SSS_AGCAGCAGC	229	238	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SEL1L_NM_005065	LLL_CTGCTGCTG	124	133	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TNFAIP1_NM_021137	EEE_GAGGAGGAG	532	541	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TERF2IP_NM_018975	GGG_GGCGGCGGC	244	253	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+TERF2IP_NM_018975	DDD_GATGATGAT	940	949	nan	nan	nan	nan	nan	nan	nan
+TERF2IP_NM_018975	EEEEEE_GAAGAAGAAGAAGAAGAA	994	1012	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ATXN2_NM_002973	GGG_GGCGGCGGC	346	355	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ATXN2_NM_002973	QQQQQQQQQQQQQ_CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAG,QQQQQQQQQ_CAGCAGCAGCAGCAGCAGCAGCAGCAG	595	664	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ATXN2_NM_002973	SSS_AGCAGCAGC	2641	2650	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ATXN2_NM_002973	QQQ_CAGCAGCAG	3661	3670	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+ZSCAN26_NM_001023560	VVV_GTTGTTGTT	466	475	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RALGAPA2_NM_020343	GGG_GGTGGTGGT	1111	1120	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RALGAPA2_NM_020343	QQQQ_CAGCAGCAGCAG,SSS_AGCAGCAGC	2368	2398	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RALGAPA2_NM_020343	SSS_AGCAGCAGC	2554	2563	nan	nan	nan	nan	nan
+ATAD3B_NM_031921	PPP_CCGCCGCCG	151	160	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	AAA_GCGGCGGCG,EEE_GAGGAGGAG	298	331	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	LLL_CTCCTCCTC	1078	1087	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	QQQQ_CAGCAGCAGCAG	2701	2713	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	QQQ_CAGCAGCAG	2875	2884	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEEE_GAGGAGGAGGAG	3070	3082	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEEE_GAGGAGGAGGAG	3322	3334	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	3538	3547	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	3823	3832	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	4330	4339	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	4414	4423	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	4750	4759	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	5509	5518	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	5848	5857	nan	nan	nan	nan	nan	nan	nan
+MYH14_NM_001145809	EEE_GAGGAGGAG	5941	5950	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CPS1_NM_001122633	VVV_GTGGTGGTG	3148	3157	nan	nan	nan	nan	nan	nan	nan
+CPS1_NM_001122633	NNN_AACAACAAC	4435	4444	nan	nan	nan	nan
+WWC2_NM_024949	SSS_TCTTCTTCT	1810	1819	nan	nan	nan	nan
+WWC2_NM_024949	EEEEE_GAAGAAGAAGAAGAA	2731	2746	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+YIPF3_NM_015388	AAA_GCTGCTGCT	307	316	nan	nan	nan
+PALM2-AKAP2_NM_007203	QQQQQQ_CAGCAGCAGCAGCAGCAG	1645	1663	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	EEE_GAGGAGGAG	145	154	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	KKK_AAGAAGAAG	253	262	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	EEE_GAGGAGGAG	379	388	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	KKKKKK_AAGAAGAAGAAGAAGAAG	439	457	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	EEEEEE_GAGGAGGAGGAGGAGGAG	499	517	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	DDDDD_GATGATGATGATGAT	517	532	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	MMM_ATGATGATG	700	709	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	AAA_GCAGCAGCA	787	796	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	EEE_GAGGAGGAG	1165	1174	nan	nan	nan	nan	nan	nan	nan	inf	nan	nan
+CHD4_NM_001273	GGG_GGAGGAGGA	3799	3808	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	EEE_GAAGAAGAA	3964	3973	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	EEE_GAAGAAGAA	5092	5101	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+CHD4_NM_001273	QQQ_CAGCAGCAG	5827	5836	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+PRKCSH_NM_001289103	EEEEEEEEEE_GAGGAGGAGGAGGAGGAGGAGGAGGAGGAG	1036	1066	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+SCAMP3_NM_005698	PPP_CCACCACCA	244	253	nan	nan	nan	nan	nan
+SCAMP3_NM_005698	FFF_TTCTTCTTC	805	814	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM168B_NM_001009993	AAA_GCAGCAGCA	190	199	nan	nan	nan	nan	nan	nan	nan	nan	nan
+FAM168B_NM_001009993	SSS_TCCTCCTCC	319	328	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+RNF217_NM_001286398	GGG_GGCGGCGGC	127	136	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+VPS4A_NM_013245	RRR_AGGAGGAGG	943	952	nan	nan	nan	nan
+IL17RA_NM_014339	EEE_GAGGAGGAG	2446	2455	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+DDX1_NM_004939	GGG_GGAGGAGGA	1687	1696	nan	nan	nan	nan
+ATP5A1_NM_001001937	KKK_AAGAAGAAG	814	823	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
