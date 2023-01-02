@@ -11,7 +11,7 @@ remove all unwanted charaters in the chromosome header of fasta file
 sed -i -e 's/ .*//' genome.fa
 ```
 ## <font size =4>2 create refFlat.txt</font>
-using UCSC tools gtfToGenePred 
+using UCSC tools gtfToGenePred ([http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64](http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64))
 ```shell
 ~/Genomes/tools/gtfToGenePred -genePredExt genes.gtf ref.txt
 ```
