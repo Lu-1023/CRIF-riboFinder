@@ -26,7 +26,7 @@ Given that ribosome profiling could accurately indicate the position of decoding
 ## <font size=5>Software requirements </font>
 ### <font size=3>OS Requirements </font>
 CRIF-Finder is supported for Linux. The package has been tested on the following systems:
-Linux: Ubuntu 20.04
+`Linux: Ubuntu 20.04`
 ### <font size=3>Python Dependencies</font>
 ```shell
 scipy
