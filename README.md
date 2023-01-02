@@ -22,10 +22,10 @@ Given that ribosome profiling could accurately indicate the position of decoding
 # <font color="GREY">System Requirements</font>
 ***
 ## <font size=5>Hardware requirements</font>
-`CRIF-Finder` requires only a standard computer with enough RAM to support the in-memory operations.
+`CRIF-riboFinder` requires only a standard computer with enough RAM to support the in-memory operations.
 ## <font size=5>Software requirements </font>
 ### <font size=3>OS Requirements </font>
-CRIF-Finder is supported for Linux. The package has been tested on the following systems:
+`CRIF-riboFinder` is supported for Linux. The package has been tested on the following systems:
 `Linux: Ubuntu 20.04`
 ### <font size=3>Python Dependencies</font>
 ```shell
@@ -93,7 +93,7 @@ BLASTP
 
 # <font color="GREY">Demo</font>
 ***
-A simple example of `CRIF-Finder` is at:([https://github.com/Lu-1023/CRIF_Finder/tree/main/demo](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo)
+A simple example of `CRIF-riboFinder` is at:([https://github.com/Lu-1023/CRIF_Finder/tree/main/demo](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo)
 # <font color="GREY">License</font>
 ***
 This project is covered under the [Mit License](https://github.com/Lu-1023/CRIF_Finder/blob/main/LICENSE).
