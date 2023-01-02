@@ -88,7 +88,7 @@ bedtools version 2.30.0
 Python 3.8.12
 Perl v5.26.2
 R version 4.0.5
-BLASTP
+BLASTP v2.5.0+
 ```
 
 # <font color="GREY">Demo</font>
