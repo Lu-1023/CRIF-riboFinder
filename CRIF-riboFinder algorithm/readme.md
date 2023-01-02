@@ -1,5 +1,5 @@
 
-#**<font color="grey"><font size=10>CRIF-riboFinder algorithm</font></font>**
+# **<font color="grey"><font size=10>CRIF-riboFinder algorithm</font></font>**
 <font size=5><font color="steelblue"><p align="right">2022.11.18</p></font></font>
  <font color="steelblue">(Predict codon repeats which can significantly induce frameshifting and visualize) </font>
 
