@@ -1,9 +1,19 @@
-# CRIF_Finder
-**<font color="grey"><font size=10> CRIF Finder of Ribo-seq</font></font>**
+ # **<font color="grey"><font size=30> CRIF-riboFinder</font></font>**
 <font size=5><font color="grey"><p align="right">2022.12.28</p></font></font>
 
 
-[TOC]
+- [Overview](#overview)
+- [System Requirements](#system-requirements)
+  - [Hardware requirements](#hardware-requirements)
+  - [Software requirements ](#software-requirements-)
+    - [OS Requirements ](#os-requirements-)
+    - [Python Dependencies](#python-dependencies)
+    - [R Dependencies](#r-dependencies)
+    - [Perl Dependencies](#perl-dependencies)
+  - [Installation Guide: ](#installation-guide-)
+- [Demo](#demo)
+- [License](#license)
+
 
 # <font color="GREY">Overview</font>
 ***
@@ -35,6 +45,7 @@ readr
 ggrepel
 ggplot2
 ggalt
+reshape2
 ```
 ### <font size=3>Perl Dependencies</font>
 ```shell
@@ -65,6 +76,7 @@ conda install -c bioconda bedtools
 conda install -c conda-forge python
 conda install -c conda-forge perl
 conda install -c r r
+conda install -c bioconda blast
 ```
 The softwares we have been used on the following version:
 ```shell
@@ -76,11 +88,13 @@ bedtools version 2.30.0
 Python 3.8.12
 Perl v5.26.2
 R version 4.0.5
+BLASTP
 ```
 
 # <font color="GREY">Demo</font>
 ***
-A simple example of `CRIF-Finder` is at:([https://github.com/Lu-1023/CRIF_Finder/tree/main/demo](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo))
+A simple example of `CRIF-Finder` is at:([https://github.com/Lu-1023/CRIF_Finder/tree/main/demo](https://github.com/Lu-1023/CRIF_Finder/tree/main/demo)
 # <font color="GREY">License</font>
 ***
 This project is covered under the [Mit License](https://github.com/Lu-1023/CRIF_Finder/blob/main/LICENSE).
+
