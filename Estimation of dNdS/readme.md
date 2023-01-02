@@ -28,7 +28,7 @@ python raw_pro_seq.py
 ```
 
 
-##  <font size=6>step3 Getting the CRIF peptide sequence   </font>
+##  <font size=6>step3 Getting the CRIF(cr) peptide sequence   </font>
 Merging pep file and cds file into one file based on keyword 'id' and the 150bp downstarin of stop of codon repeat sequence or full sequence from stop of codon repeat to stop coden is obtained and translating to protein sequence according to the position of motif in pep file.
 
 ```shell
