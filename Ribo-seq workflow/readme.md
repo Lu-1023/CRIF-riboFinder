@@ -6,7 +6,7 @@
 
 
 ##   <font size=4>1 processing genome fasta</font>
-remove all unwanted charaters in the chromosome header of fasta file
+remove all unwanted charaters in the chromosome header of fasta file.The genome fasta if downloaded from NCBI([https://www.ncbi.nlm.nih.gov/genome/](https://www.ncbi.nlm.nih.gov/genome/)) or UCSC([https://hgdownload.soe.ucsc.edu/downloads.html](https://hgdownload.soe.ucsc.edu/downloads.html))
 ```shell
 sed -i -e 's/ .*//' genome.fa
 ```
