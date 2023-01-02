@@ -1,0 +1,16 @@
+sample	0	plus	minus
+demo			
+sample	0	plus	minus
+demo	47191	5856	6563
+sample	0	plus	minus
+demo	47191	5856	6563
+sample	0	plus	minus
+demo	47191	5856	6563
+sample	0	plus	minus
+demo	47191	5856	6563
+sample	0	plus	minus
+demo	47187	5855	6562
+sample	0	plus	minus
+demo	47187	5855	6562
+sample	0	plus	minus
+demo	47187	5855	6562
